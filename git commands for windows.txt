@@ -1,0 +1,24 @@
+>How to create git repository?
+- mkdir <folder name>
+- git init
+- cls (clear screen)
+- .gitignore (ignore file type)
+- git add <filename> (git stagge)
+- git commit -m "any text" (git commit)
+- git branch (see the branches)
+- git checkout -b "branchname" (Create a new branch and switch to that branch)
+- start <file name> (to open a file)
+- git merge <branch name> (merge any branch to master) -> first need to move master branch
+- git checkout master (move to master branch)
+- git remote (to see if there is any remote directory is already connected or not)
+- git remote add origin https://github.com/S-shuvo/Practice1.git (connected to remote code)
+- git push -u origin master (connecting local main branch & remote main brach)
+- git pull (updating already edited remote files with local files)
+- git branch <branch name> (create a new branch)
+- git checkout <branch name> (move head on that branch)
+~~prottekbar local er kono kichu remote e push korar aage last remote status ta ekta pull kore nite hobe"
+
+>How to add files?
+>How to stage changes
+>How to commit changes
+>
