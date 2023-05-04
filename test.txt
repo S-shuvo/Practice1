@@ -1,4 +1,8 @@
 this is a test file
+<<<<<<< HEAD
 this line added at remote repository
 this chnage has done at remote repo branch module2
 this change has done at local repo
+=======
+this changes done in module1 branch file
+>>>>>>> module1
